@@ -2,12 +2,9 @@
   "packages": [
     {
       "name": "ghuff",
-      "maintainer": "MCUdude",
+      "maintainer": "mmm",
       "websiteURL": "https://github.com/MCUdude/MegaCore",
       "email": "",
-      "help": {
-        "online": "https://forum.arduino.cc/index.php?topic=386733"
-      },
       "platforms": [
         {
           "name": "MegaCore",
