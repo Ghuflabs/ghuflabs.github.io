@@ -11,7 +11,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://ghuflabs.github.io/GhufinoMega_V1.zip",
+          "url": "https://ghuflabs.github.io/GhufinoMega_V1.tar.bz",
           "archiveFileName": "GhufinoMega_V1",
           "boards": [
             {"name": "Ghufino Mega128"}
