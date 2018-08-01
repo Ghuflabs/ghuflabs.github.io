@@ -12,7 +12,7 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://ghuflabs.github.io/GhufinoMega_V1.zip",
-          "archiveFileName": "hufinoMega_V1.zip",
+          "archiveFileName": "ghufinoMega_V1.zip",
           "boards": [
             {"name": "Ghufino Mega128"}
           ],
